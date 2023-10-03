@@ -1,6 +1,6 @@
 package guru.springframework.spring6di.services;
 
-public interface SayGreeting {
+public interface GreetingService {
 
     String sayGreeting();
 }
